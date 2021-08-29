@@ -1,6 +1,6 @@
 ## Multi Agent System Platform - E-commerce negotiation -  English auction
 ***
-## EXPLICAION DU CODE 
+## Explication du code 
  #### Le code source se compose de quatre packages chacun réalise un traitement dans notre système multi agents
 
 *	Package `VenteLivre` : ìl contient trois classe pour le premier scénario, la classe `AgentAcheteurLivre` 
