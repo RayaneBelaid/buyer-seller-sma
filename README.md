@@ -1,4 +1,4 @@
-## Multi Agent System Platform
+## Multi Agent System Platform - E-commerce negotiation -  English auction
 ***
 #### EXPLICAION DU CODE 
 
