@@ -1,8 +1,8 @@
-################## EXPLICAION DU CODE ######################### 
+## Multi Agent System Platform
+***
+#### EXPLICAION DU CODE 
 
-  
-
-    Le code source se compose de quatre packages chacun réalise un traitement dans notre système multi agents
+ #### Le code source se compose de quatre packages chacun réalise un traitement dans notre système multi agents
 
 •	Package VenteLivre : elle contient trois classe pour le premier scénario, la classe AgentAcheteurLivre 
     qui représente l’agent acheteur, et la classe AgentVendeurLivre qui représente l’agent vendeur, et en fin 
@@ -22,17 +22,12 @@
   
   
   
-  
-  
-    ******************************************************************************************************
-    *                                           EXECUTION                                                *
-    *                                                                                                    *      
-    ******************************************************************************************************     
+## Exécution   
   Pour éxecuter le premier scénario il faut lancer les classes ci-dessous du package scénario1Containers  :
 
-  1-lancer le container MainContainer pour le démarrage du container principal et RMA
-  2-lancer le container Main pour le démararge des agents 
+  1. lancer le container MainContainer pour le démarrage du container principal et RMA
+  2. lancer le container Main pour le démararge des agents 
 
-  Pour éxecuter le deuxième scénario il faut exécuter les classe ci-dessous du package scénario2Containers :
-  1-lancer le container MainContainer pour le démarrage du container principal et RMA
-  2-lancer le container AgentContainer pour le démararge des agents
+  #### Pour éxecuter le deuxième scénario il faut exécuter les classe ci-dessous du package scénario2Containers :
+  1. lancer le container MainContainer pour le démarrage du container principal et RMA
+  2. lancer le container AgentContainer pour le démararge des agents
