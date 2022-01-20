@@ -1,4 +1,4 @@
-## Multi-Agent System Platform - E-commerce negotiation -  English auction
+## Multi-Agent System Platform - E-commerce negotiation - Auction products
 ***
 ## Explication du code 
  #### Le code source se compose de quatre packages chacun réalise un traitement dans notre système multi agents
